@@ -13,8 +13,7 @@
 - Database: PostgreSQL, MySQL, MongoDB, Redis, Oracle, QuestDB, TimescaleDB, Clickhouse, InfluxDB
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxpauloxx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxpauloxx&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxpauloxx)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xxpauloxx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xxpauloxx)
